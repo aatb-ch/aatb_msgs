@@ -1,6 +1,6 @@
 # aatb_msgs
 
-ROS2 package for custom messages, services and actions for AATB works.
+ROS2 package for custom messages, services and actions for [AATB](https://aatb.ch/) works.
 
 ## Messages
 
