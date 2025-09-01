@@ -10,7 +10,7 @@ Represents a single tracked object.
 Fields:
 - `uint32 id` - Unique identifier for the track
 - `builtin_interfaces/Time entered` - Timestamp when the track was first detected
-- `builtin_interfaces/Duration since` - Duration since the track was created
+- `builtin_interfaces/Duration age` - Duration since the track was created
 - `bool moving` - Whether the track is currently moving
 - `geometry_msgs/Pose pose` - Current pose of the tracked object
 
