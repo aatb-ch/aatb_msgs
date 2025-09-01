@@ -4,3 +4,4 @@ builtin_interfaces/Time entered
 builtin_interfaces/Duration age
 bool moving
 geometry_msgs/Pose pose
+geometry_msgs/Vector3 velocity

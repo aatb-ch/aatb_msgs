@@ -13,6 +13,7 @@ Fields:
 - `builtin_interfaces/Duration age` - Duration since the track was created
 - `bool moving` - Whether the track is currently moving
 - `geometry_msgs/Pose pose` - Current pose of the tracked object
+- `geometry_msgs/Vector3 velocity` - Current velocity of the tracked object
 
 ### Tracks.msg
 Container for multiple Track messages.
